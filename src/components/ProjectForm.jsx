@@ -105,3 +105,5 @@ function ProjectForm({ onAddProject }) {
     </div>
   );
 }
+
+export default ProjectForm;
