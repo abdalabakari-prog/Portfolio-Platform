@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 
 function ProjectCard({ project, onDelete }) {
   const [isHovered, setIsHovered] = useState(false);
